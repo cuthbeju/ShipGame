@@ -1,4 +1,4 @@
-# portfolio-project
+# CS162 Portfolio Project - ShipGame
 
 As with all user-defined classes in this course (all the ones that have any methods besides just an init method), all data members must be **private**.
 
